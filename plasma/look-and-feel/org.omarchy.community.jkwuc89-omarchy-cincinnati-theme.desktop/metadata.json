@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.jkwuc89-omarchy-cincinnati-theme.desktop",
+    "Name": "Omarchy Community · Cincinnati",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/jkwuc89/omarchy-cincinnati-theme",
+    "License": "MIT"
+  }
+}

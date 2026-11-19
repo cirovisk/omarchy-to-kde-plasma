@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.gaius-codius-omarchy-beirut-theme.desktop",
+    "Name": "Omarchy Community · Beirut",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/gaius-codius/omarchy-beirut-theme",
+    "License": "MIT"
+  }
+}

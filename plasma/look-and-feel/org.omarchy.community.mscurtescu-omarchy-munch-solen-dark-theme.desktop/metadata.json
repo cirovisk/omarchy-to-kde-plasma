@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.mscurtescu-omarchy-munch-solen-dark-theme.desktop",
+    "Name": "Omarchy Community · Munch Solen Dark",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/mscurtescu/omarchy-munch-solen-dark-theme",
+    "License": "MIT"
+  }
+}

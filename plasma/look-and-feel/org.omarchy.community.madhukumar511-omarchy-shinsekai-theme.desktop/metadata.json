@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.madhukumar511-omarchy-shinsekai-theme.desktop",
+    "Name": "Omarchy Community · Shinsekai",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Madhukumar511/omarchy-shinsekai-theme",
+    "License": "MIT"
+  }
+}

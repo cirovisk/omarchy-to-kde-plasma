@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.leaflessbranch-omarchy-the-impossible-hotel-theme.desktop",
+    "Name": "Omarchy Community · The Impossible Hotel",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/leaflessbranch/omarchy-the-impossible-hotel-theme",
+    "License": "MIT"
+  }
+}

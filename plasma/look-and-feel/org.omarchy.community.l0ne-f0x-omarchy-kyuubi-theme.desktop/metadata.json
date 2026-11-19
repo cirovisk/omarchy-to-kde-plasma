@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.l0ne-f0x-omarchy-kyuubi-theme.desktop",
+    "Name": "Omarchy Community · Kyuubi",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/L0nE-F0x/omarchy-kyuubi-theme",
+    "License": "MIT"
+  }
+}

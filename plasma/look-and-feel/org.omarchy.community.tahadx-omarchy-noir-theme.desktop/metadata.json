@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.tahadx-omarchy-noir-theme.desktop",
+    "Name": "Omarchy Community · Noir",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/tahadx/omarchy-noir-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.simoz-omarchy-outpost-theme.desktop",
+    "Name": "Omarchy Community · Outpost",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/simoz/omarchy-outpost-theme",
+    "License": "MIT"
+  }
+}

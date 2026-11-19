@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.leaflessbranch-omarchy-neon-fossil-theme.desktop",
+    "Name": "Omarchy Community · Neon Fossil",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/leaflessbranch/omarchy-neon-fossil-theme",
+    "License": "MIT"
+  }
+}

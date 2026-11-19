@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.rlimberger-omarchy-sgi-irix-theme.desktop",
+    "Name": "Omarchy Community · SGI Irix",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/rlimberger/omarchy-sgi-irix-theme",
+    "License": "MIT"
+  }
+}

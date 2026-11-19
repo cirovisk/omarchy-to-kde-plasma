@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.abhijeet-swami-omarchy-forest-green-theme.desktop",
+    "Name": "Omarchy Community · Forest Green",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/abhijeet-swami/omarchy-forest-green-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.tahfizhabib-omarchy-amberbyte-theme.desktop",
+    "Name": "Omarchy Community · Amberbyte",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/tahfizhabib/omarchy-amberbyte-theme",
+    "License": "MIT"
+  }
+}

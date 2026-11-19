@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.brianblakely-omarchy-omaled-theme.desktop",
+    "Name": "Omarchy Community · OmaLED",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/brianblakely/omarchy-omaled-theme",
+    "License": "MIT"
+  }
+}

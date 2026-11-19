@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.egulay-neon-foundry.desktop",
+    "Name": "Omarchy Community · Neon Foundry",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/egulay/neon-foundry",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.leaflessbranch-omarchy-xenobotany-lab-no-7-theme.desktop",
+    "Name": "Omarchy Community · Xenobotany Lab No. 7",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/leaflessbranch/omarchy-xenobotany-lab-no-7-theme",
+    "License": "MIT"
+  }
+}

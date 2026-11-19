@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.simoz-omarchy-1800-theme.desktop",
+    "Name": "Omarchy Community · 1800",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/simoz/omarchy-1800-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.dotsilva-omarchy-dotrb-theme.desktop",
+    "Name": "Omarchy Community · Dotrb",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/dotsilva/omarchy-dotrb-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.johnrenatodev-omarchy-arquibancada-theme.desktop",
+    "Name": "Omarchy Community · Arquibancada",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/JohnRenatoDev/omarchy-arquibancada-theme",
+    "License": "MIT"
+  }
+}

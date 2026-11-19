@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.juangalt-omarchy-starry-night-theme.desktop",
+    "Name": "Omarchy Community · Starry Night",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/juangalt/omarchy-starry-night-theme",
+    "License": "MIT"
+  }
+}

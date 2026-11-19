@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.celsobenedetti-omarchy-evergarden.desktop",
+    "Name": "Omarchy Community · Evergarden",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/celsobenedetti/omarchy-evergarden",
+    "License": "GPL-3.0"
+  }
+}

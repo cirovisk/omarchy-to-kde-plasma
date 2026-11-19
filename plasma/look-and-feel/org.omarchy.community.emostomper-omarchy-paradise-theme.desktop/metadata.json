@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.emostomper-omarchy-paradise-theme.desktop",
+    "Name": "Omarchy Community · Paradise",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/EmoStomper/omarchy-paradise-theme",
+    "License": "MIT"
+  }
+}

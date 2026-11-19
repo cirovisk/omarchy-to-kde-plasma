@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.michtesar-omarchy-socrates-theme.desktop",
+    "Name": "Omarchy Community · Socrates",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/michtesar/omarchy-socrates-theme",
+    "License": "MIT"
+  }
+}

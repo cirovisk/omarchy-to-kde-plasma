@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.prjoni99-omarchy-fsociety-theme.desktop",
+    "Name": "Omarchy Community · fsociety",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/prjoni99/omarchy-fsociety-theme",
+    "License": "MIT"
+  }
+}

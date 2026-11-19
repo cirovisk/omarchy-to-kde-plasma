@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.steve-lohmeyer-omarchy-mars-theme.desktop",
+    "Name": "Omarchy Community · Mars",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/steve-lohmeyer/omarchy-mars-theme",
+    "License": "MIT"
+  }
+}

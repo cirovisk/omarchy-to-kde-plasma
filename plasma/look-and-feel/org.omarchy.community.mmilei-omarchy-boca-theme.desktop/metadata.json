@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.mmilei-omarchy-boca-theme.desktop",
+    "Name": "Omarchy Community · Boca",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/mmilei/omarchy-boca-theme",
+    "License": "MIT"
+  }
+}

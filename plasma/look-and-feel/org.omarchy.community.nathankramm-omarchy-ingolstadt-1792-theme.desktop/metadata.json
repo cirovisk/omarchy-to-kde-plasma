@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.nathankramm-omarchy-ingolstadt-1792-theme.desktop",
+    "Name": "Omarchy Community · Ingolstadt 1792",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/nathankramm/omarchy-ingolstadt-1792-theme",
+    "License": "MIT"
+  }
+}

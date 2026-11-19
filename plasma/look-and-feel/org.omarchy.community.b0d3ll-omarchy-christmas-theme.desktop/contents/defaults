@@ -1,0 +1,15 @@
+[kdeglobals][General]
+ColorScheme=OmarchyCommunityB0D3LlOmarchyChristmasTheme
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[kdeglobals][Icons]
+Theme=breeze-dark
+
+[plasmarc][Theme]
+name=default
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.breeze
+theme=Breeze

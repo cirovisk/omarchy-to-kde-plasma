@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.benwillems-omarchy-futurist-theme.desktop",
+    "Name": "Omarchy Community · Futurist",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/benwillems/omarchy-futurist-theme",
+    "License": "MIT"
+  }
+}

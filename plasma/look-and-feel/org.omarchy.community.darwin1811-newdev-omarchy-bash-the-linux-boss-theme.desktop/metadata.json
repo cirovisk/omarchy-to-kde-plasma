@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.darwin1811-newdev-omarchy-bash-the-linux-boss-theme.desktop",
+    "Name": "Omarchy Community · BASH the Linux Boss",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/darwin1811-newdev/omarchy-bash-the-linux-boss-theme",
+    "License": "CC-BY-SA-4.0"
+  }
+}

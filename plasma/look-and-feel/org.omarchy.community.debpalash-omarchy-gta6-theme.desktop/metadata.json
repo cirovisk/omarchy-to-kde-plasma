@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.debpalash-omarchy-gta6-theme.desktop",
+    "Name": "Omarchy Community · GTA6",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/debpalash/omarchy-gta6-theme",
+    "License": "MIT"
+  }
+}

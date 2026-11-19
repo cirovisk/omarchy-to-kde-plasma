@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.shmall03-omarchy-castle-on-a-lake-theme.desktop",
+    "Name": "Omarchy Community · Castle on a Lake",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/shmall03/omarchy-castle-on-a-lake-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.rogunlimited-hub-omarchy-omadore-64-theme.desktop",
+    "Name": "Omarchy Community · Omadore 64",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/rogunlimited-hub/omarchy-omadore-64-theme",
+    "License": "MIT"
+  }
+}

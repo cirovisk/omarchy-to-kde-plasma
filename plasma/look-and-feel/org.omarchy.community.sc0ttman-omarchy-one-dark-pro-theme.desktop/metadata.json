@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.sc0ttman-omarchy-one-dark-pro-theme.desktop",
+    "Name": "Omarchy Community · One Dark Pro",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/sc0ttman/omarchy-one-dark-pro-theme",
+    "License": "MIT"
+  }
+}

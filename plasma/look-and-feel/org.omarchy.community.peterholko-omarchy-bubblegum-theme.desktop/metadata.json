@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.peterholko-omarchy-bubblegum-theme.desktop",
+    "Name": "Omarchy Community · Bubblegum",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/peterholko/omarchy-bubblegum-theme",
+    "License": "MIT"
+  }
+}

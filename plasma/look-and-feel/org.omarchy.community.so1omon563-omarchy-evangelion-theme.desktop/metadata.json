@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.so1omon563-omarchy-evangelion-theme.desktop",
+    "Name": "Omarchy Community · Evangelion",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/so1omon563/omarchy-evangelion-theme",
+    "License": "MIT"
+  }
+}

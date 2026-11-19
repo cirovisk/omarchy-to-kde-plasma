@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.erikrjohansson-omarchy-motion-blur-theme.desktop",
+    "Name": "Omarchy Community · Motion Blur",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/erikrjohansson/omarchy-motion-blur-theme",
+    "License": "MIT"
+  }
+}

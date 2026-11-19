@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.demian0311-omarchy-slate-light-theme.desktop",
+    "Name": "Omarchy Community · Slate Light",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/demian0311/omarchy-slate-light-theme",
+    "License": "MIT"
+  }
+}

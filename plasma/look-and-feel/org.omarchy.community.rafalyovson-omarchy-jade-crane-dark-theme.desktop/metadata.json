@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.rafalyovson-omarchy-jade-crane-dark-theme.desktop",
+    "Name": "Omarchy Community · Jade Crane Dark",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/rafalyovson/omarchy-jade-crane-dark-theme",
+    "License": "MIT"
+  }
+}

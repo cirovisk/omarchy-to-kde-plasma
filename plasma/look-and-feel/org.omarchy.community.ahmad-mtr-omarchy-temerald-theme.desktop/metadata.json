@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.ahmad-mtr-omarchy-temerald-theme.desktop",
+    "Name": "Omarchy Community · Temerald",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Ahmad-Mtr/omarchy-temerald-theme",
+    "License": "MIT"
+  }
+}

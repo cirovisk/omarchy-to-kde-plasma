@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.itsmattguenther-omarchy-omarchy-raiders-theme.desktop",
+    "Name": "Omarchy Community · Omarchy Raiders",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/itsMattGuenther/omarchy-omarchy-raiders-theme",
+    "License": "MIT"
+  }
+}

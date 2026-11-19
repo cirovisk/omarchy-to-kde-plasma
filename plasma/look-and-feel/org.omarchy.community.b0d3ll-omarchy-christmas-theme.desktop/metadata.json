@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.b0d3ll-omarchy-christmas-theme.desktop",
+    "Name": "Omarchy Community · Christmas",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/b0d3ll/omarchy-christmas-theme",
+    "License": "MIT"
+  }
+}

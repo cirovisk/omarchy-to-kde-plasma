@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.mwaltzer-omarchy-bauhaus-theme.desktop",
+    "Name": "Omarchy Community · Bauhaus",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/mwaltzer/omarchy-bauhaus-theme",
+    "License": "MIT"
+  }
+}

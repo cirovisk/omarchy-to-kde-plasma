@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.randallyash-omarchy-hearthgrove-theme.desktop",
+    "Name": "Omarchy Community · Hearthgrove",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/randallyash/omarchy-hearthgrove-theme",
+    "License": "MIT"
+  }
+}

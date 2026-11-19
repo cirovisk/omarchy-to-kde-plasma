@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.biggsjm-omarchy-blue-bubble-theme.desktop",
+    "Name": "Omarchy Community · Blue Bubble",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/biggsjm/omarchy-blue-bubble-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.anhelm01-omarchy-kupola-theme.desktop",
+    "Name": "Omarchy Community · Kupola",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Anhelm01/omarchy-kupola-theme",
+    "License": "MIT"
+  }
+}

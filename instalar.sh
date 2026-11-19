@@ -9,5 +9,5 @@ for pasta in color-schemes plasma/look-and-feel; do
     cp -a -- "$pacote/$pasta/." "$dados/$pasta/"
 done
 
-printf '24 temas instalados em %s\n' "$dados"
+printf 'Temas instalados em %s\n' "$dados"
 printf 'Abra Configurações do Sistema → Cores e temas → Tema global.\n'

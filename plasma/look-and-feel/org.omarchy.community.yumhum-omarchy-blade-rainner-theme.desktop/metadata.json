@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.yumhum-omarchy-blade-rainner-theme.desktop",
+    "Name": "Omarchy Community · Blade Rainner",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/yumhum/omarchy-blade-rainner-theme",
+    "License": "MIT"
+  }
+}

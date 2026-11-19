@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.omacom-omarchy-osaka-jade-theme.desktop",
+    "Name": "Omarchy Community · Osaka Jade",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/omacom/omarchy-osaka-jade-theme",
+    "License": "MIT"
+  }
+}

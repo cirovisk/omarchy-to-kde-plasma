@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.jtreguer-omarchy-dystopia-theme.desktop",
+    "Name": "Omarchy Community · Dystopia",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/jtreguer/omarchy-dystopia-theme",
+    "License": "MIT"
+  }
+}

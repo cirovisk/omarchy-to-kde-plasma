@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.sspaeti-omarchy-asia-neon-theme.desktop",
+    "Name": "Omarchy Community · Asia Neon",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/sspaeti/omarchy-asia-neon-theme",
+    "License": "MIT"
+  }
+}

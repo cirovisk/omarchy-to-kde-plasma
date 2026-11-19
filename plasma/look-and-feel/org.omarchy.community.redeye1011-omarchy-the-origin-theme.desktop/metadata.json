@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.redeye1011-omarchy-the-origin-theme.desktop",
+    "Name": "Omarchy Community · The Origin",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/redeye1011/omarchy-the-origin-theme",
+    "License": "MIT"
+  }
+}

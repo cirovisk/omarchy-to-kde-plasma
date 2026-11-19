@@ -1,0 +1,15 @@
+[kdeglobals][General]
+ColorScheme=OmarchyCommunityAlxwolfenstein97OmarchyStreetFighter6Theme
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[kdeglobals][Icons]
+Theme=breeze-dark
+
+[plasmarc][Theme]
+name=default
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.breeze
+theme=Breeze

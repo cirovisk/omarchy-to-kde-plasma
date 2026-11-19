@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.abhijeet-swami-omarchy-ayaka-theme.desktop",
+    "Name": "Omarchy Community · Ayaka",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/abhijeet-swami/omarchy-ayaka-theme",
+    "License": "MIT"
+  }
+}

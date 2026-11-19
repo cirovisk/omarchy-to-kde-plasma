@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.alxwolfenstein97-omarchy-metal-gear-rising-theme.desktop",
+    "Name": "Omarchy Community · Metal Gear Rising",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/AlxWolfenstein97/omarchy-metal-gear-rising-theme",
+    "License": "Termos do autor"
+  }
+}

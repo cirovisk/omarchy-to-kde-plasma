@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.nazzarenogiannelli-omarchy-aura-dark-theme.desktop",
+    "Name": "Omarchy Community · Aura Dark",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/NazzarenoGiannelli/omarchy-aura-dark-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.hancore-linux-omarchy-saga-theme.desktop",
+    "Name": "Omarchy Community · Saga",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/HANCORE-linux/omarchy-saga-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.vale-c-omarchy-arc-blueberry.desktop",
+    "Name": "Omarchy Community · Arc Blueberry",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/vale-c/omarchy-arc-blueberry",
+    "License": "MIT"
+  }
+}

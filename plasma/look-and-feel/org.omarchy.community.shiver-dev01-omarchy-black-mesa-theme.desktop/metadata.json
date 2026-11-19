@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.shiver-dev01-omarchy-black-mesa-theme.desktop",
+    "Name": "Omarchy Community · Black Mesa",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Shiver-dev01/omarchy-black-mesa-theme",
+    "License": "MIT"
+  }
+}

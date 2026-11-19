@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.gleasonmt-omarchy-ringside-royalty-theme.desktop",
+    "Name": "Omarchy Community · Ringside Royalty",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Gleasonmt/omarchy-ringside-royalty-theme",
+    "License": "MIT"
+  }
+}

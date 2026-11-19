@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.majesticio-omarchy-santa-fe-theme.desktop",
+    "Name": "Omarchy Community · Santa Fe",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/majesticio/omarchy-santa-fe-theme",
+    "License": "MIT"
+  }
+}

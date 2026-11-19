@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.oldjobobo-omarchy-city-783-theme.desktop",
+    "Name": "Omarchy Community · City-783",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/OldJobobo/omarchy-city-783-theme",
+    "License": "MIT"
+  }
+}

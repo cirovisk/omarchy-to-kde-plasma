@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.anooplamba-omarchy-osaka-tree-theme.desktop",
+    "Name": "Omarchy Community · Osaka Tree",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/AnoopLamba/omarchy-osaka-tree-theme",
+    "License": "MIT"
+  }
+}

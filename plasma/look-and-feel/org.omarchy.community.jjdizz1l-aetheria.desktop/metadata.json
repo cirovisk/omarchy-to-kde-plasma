@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.jjdizz1l-aetheria.desktop",
+    "Name": "Omarchy Community · Aetheria",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/JJDizz1L/aetheria",
+    "License": "MIT"
+  }
+}

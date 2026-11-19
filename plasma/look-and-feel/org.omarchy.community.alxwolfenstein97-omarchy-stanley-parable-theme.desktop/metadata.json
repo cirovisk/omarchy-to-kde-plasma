@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.alxwolfenstein97-omarchy-stanley-parable-theme.desktop",
+    "Name": "Omarchy Community · The Stanley Parable",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/AlxWolfenstein97/omarchy-stanley-parable-theme",
+    "License": "Termos do autor"
+  }
+}

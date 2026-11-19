@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.bryan-legend-omarchy-darkroom-night-vision-theme.desktop",
+    "Name": "Omarchy Community · Darkroom Night Vision",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Bryan-Legend/omarchy-darkroom-night-vision-theme",
+    "License": "MIT"
+  }
+}

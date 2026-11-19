@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.irythill-omarchy-cyberpunk-dreams-theme.desktop",
+    "Name": "Omarchy Community · Cyberpunk Dreams",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/irythill/omarchy-cyberpunk-dreams-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.dennisp80-omarchy-orion-1993-theme.desktop",
+    "Name": "Omarchy Community · Orion 1993",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/dennisp80/omarchy-orion-1993-theme",
+    "License": "MIT"
+  }
+}

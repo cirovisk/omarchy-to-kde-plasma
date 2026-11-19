@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.gazzasaurusrex-omarchy-hive-theme.desktop",
+    "Name": "Omarchy Community · The Hive",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/GazzasaurusRex/omarchy-hive-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.vwillcox-omarchy-stargate-sg1-theme.desktop",
+    "Name": "Omarchy Community · Stargate SG-1",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/vwillcox/omarchy-stargate-sg1-theme",
+    "License": "MIT"
+  }
+}

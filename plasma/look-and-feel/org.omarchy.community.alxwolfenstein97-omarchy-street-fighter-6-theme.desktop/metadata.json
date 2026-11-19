@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.alxwolfenstein97-omarchy-street-fighter-6-theme.desktop",
+    "Name": "Omarchy Community · Street Fighter 6",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/AlxWolfenstein97/omarchy-street-fighter-6-theme",
+    "License": "Termos do autor"
+  }
+}

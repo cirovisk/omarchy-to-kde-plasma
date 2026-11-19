@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.hancore-linux-omarchy-oxocarbon-theme.desktop",
+    "Name": "Omarchy Community · Oxo Carbon",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/HANCORE-linux/omarchy-oxocarbon-theme",
+    "License": "MIT"
+  }
+}

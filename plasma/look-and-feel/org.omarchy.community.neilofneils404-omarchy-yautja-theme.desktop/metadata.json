@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.neilofneils404-omarchy-yautja-theme.desktop",
+    "Name": "Omarchy Community · Yautja",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/neilofneils404/omarchy-yautja-theme",
+    "License": "MIT"
+  }
+}

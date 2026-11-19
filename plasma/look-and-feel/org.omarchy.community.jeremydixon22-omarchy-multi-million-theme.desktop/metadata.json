@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.jeremydixon22-omarchy-multi-million-theme.desktop",
+    "Name": "Omarchy Community · Multi-Million",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/jeremydixon22/omarchy-multi-million-theme",
+    "License": "MIT"
+  }
+}

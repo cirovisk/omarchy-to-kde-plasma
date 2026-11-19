@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.lookiyam-94-omarchy-nothing-theme.desktop",
+    "Name": "Omarchy Community · Nothing",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/lookiyam-94/omarchy-nothing-theme",
+    "License": "MIT"
+  }
+}

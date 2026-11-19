@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.carloschida-omarchy-jardin-de-las-delicias-claro-theme.desktop",
+    "Name": "Omarchy Community · El jardín de las delicias (claro)",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/carloschida/omarchy-jardin-de-las-delicias-claro-theme",
+    "License": "MIT"
+  }
+}

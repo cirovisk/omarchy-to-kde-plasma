@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.leonardobetti-omarchy-tycho.desktop",
+    "Name": "Omarchy Community · Tycho",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/leonardobetti/omarchy-tycho",
+    "License": "MIT"
+  }
+}

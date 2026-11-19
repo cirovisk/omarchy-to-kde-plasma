@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.stevederico-omarchy-usa-theme.desktop",
+    "Name": "Omarchy Community · USA",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/stevederico/omarchy-usa-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.j-v-studios-omarchy-kelp-theme.desktop",
+    "Name": "Omarchy Community · Kelp",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/J-V-Studios/omarchy-kelp-theme",
+    "License": "MIT"
+  }
+}

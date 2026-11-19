@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.leolimasnts-maplemarchy.desktop",
+    "Name": "Omarchy Community · Maplemarchy",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/leolimasnts/Maplemarchy",
+    "License": "MIT"
+  }
+}

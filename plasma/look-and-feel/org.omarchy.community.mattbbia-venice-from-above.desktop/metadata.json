@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.mattbbia-venice-from-above.desktop",
+    "Name": "Omarchy Community · Venice from Above",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/mattbbia/venice-from-above",
+    "License": "MIT"
+  }
+}

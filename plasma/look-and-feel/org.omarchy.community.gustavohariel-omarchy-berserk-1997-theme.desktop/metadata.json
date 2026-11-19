@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.gustavohariel-omarchy-berserk-1997-theme.desktop",
+    "Name": "Omarchy Community · Berserk 1997",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/gustavohariel/omarchy-berserk-1997-theme",
+    "License": "MIT"
+  }
+}

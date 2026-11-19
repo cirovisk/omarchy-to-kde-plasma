@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.phuclh-omarchy-lawson-night-theme.desktop",
+    "Name": "Omarchy Community · Lawson Night",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/phuclh/omarchy-lawson-night-theme",
+    "License": "MIT"
+  }
+}

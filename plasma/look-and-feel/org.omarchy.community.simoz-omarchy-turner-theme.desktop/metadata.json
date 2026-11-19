@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.simoz-omarchy-turner-theme.desktop",
+    "Name": "Omarchy Community · Turner",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/simoz/omarchy-turner-theme",
+    "License": "MIT"
+  }
+}

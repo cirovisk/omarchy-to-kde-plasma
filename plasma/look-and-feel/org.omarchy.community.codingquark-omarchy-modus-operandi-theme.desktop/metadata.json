@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.codingquark-omarchy-modus-operandi-theme.desktop",
+    "Name": "Omarchy Community · Modus Operandi",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/codingquark/omarchy-modus-operandi-theme",
+    "License": "GPL-3.0"
+  }
+}

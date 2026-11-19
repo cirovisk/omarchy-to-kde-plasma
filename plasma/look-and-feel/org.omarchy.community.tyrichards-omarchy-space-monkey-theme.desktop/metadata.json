@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.tyrichards-omarchy-space-monkey-theme.desktop",
+    "Name": "Omarchy Community · Space Monkey",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/TyRichards/omarchy-space-monkey-theme",
+    "License": "GPL-3.0"
+  }
+}

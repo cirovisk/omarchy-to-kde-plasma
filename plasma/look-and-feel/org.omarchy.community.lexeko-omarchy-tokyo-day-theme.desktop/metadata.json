@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.lexeko-omarchy-tokyo-day-theme.desktop",
+    "Name": "Omarchy Community · Tokyo Day",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/lexeko/omarchy-tokyo-day-theme",
+    "License": "MIT"
+  }
+}

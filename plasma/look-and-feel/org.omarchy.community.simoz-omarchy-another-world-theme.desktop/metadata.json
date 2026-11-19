@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.simoz-omarchy-another-world-theme.desktop",
+    "Name": "Omarchy Community · Another World",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/simoz/omarchy-another-world-theme",
+    "License": "MIT"
+  }
+}

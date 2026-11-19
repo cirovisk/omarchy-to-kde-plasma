@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.phuclh-omarchy-lawson-morning-theme.desktop",
+    "Name": "Omarchy Community · Lawson Morning",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/phuclh/omarchy-lawson-morning-theme",
+    "License": "MIT"
+  }
+}

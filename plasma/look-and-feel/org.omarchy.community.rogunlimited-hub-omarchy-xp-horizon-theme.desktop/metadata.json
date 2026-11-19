@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.rogunlimited-hub-omarchy-xp-horizon-theme.desktop",
+    "Name": "Omarchy Community · XP Horizon",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/rogunlimited-hub/omarchy-xp-horizon-theme",
+    "License": "MIT"
+  }
+}

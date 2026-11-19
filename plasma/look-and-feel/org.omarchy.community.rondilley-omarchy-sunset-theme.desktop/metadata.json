@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.rondilley-omarchy-sunset-theme.desktop",
+    "Name": "Omarchy Community · Sunset",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/rondilley/omarchy-sunset-theme",
+    "License": "BSD-3-Clause"
+  }
+}

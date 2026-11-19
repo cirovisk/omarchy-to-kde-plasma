@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.eliasstravik-omarchy-2049-theme.desktop",
+    "Name": "Omarchy Community · 2049",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/eliasstravik/omarchy-2049-theme",
+    "License": "MIT"
+  }
+}

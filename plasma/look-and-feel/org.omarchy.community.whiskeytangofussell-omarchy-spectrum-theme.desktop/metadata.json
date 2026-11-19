@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.whiskeytangofussell-omarchy-spectrum-theme.desktop",
+    "Name": "Omarchy Community · Spectrum",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/WhiskeyTangoFussell/omarchy-spectrum-theme",
+    "License": "MIT"
+  }
+}

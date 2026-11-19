@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.ql1max-omarchy-eva-01.desktop",
+    "Name": "Omarchy Community · Eva 01",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/ql1max/omarchy-eva-01",
+    "License": "Unlicense"
+  }
+}

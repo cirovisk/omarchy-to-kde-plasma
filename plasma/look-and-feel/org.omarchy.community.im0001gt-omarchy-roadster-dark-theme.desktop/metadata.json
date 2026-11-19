@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.im0001gt-omarchy-roadster-dark-theme.desktop",
+    "Name": "Omarchy Community · Roadster Dark",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/IM0001GT/omarchy-roadster-dark-theme",
+    "License": "MIT"
+  }
+}

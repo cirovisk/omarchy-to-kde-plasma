@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.alxwolfenstein97-omarchy-doom-eternal-theme.desktop",
+    "Name": "Omarchy Community · Doom Eternal",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/AlxWolfenstein97/omarchy-doom-eternal-theme",
+    "License": "Termos do autor"
+  }
+}

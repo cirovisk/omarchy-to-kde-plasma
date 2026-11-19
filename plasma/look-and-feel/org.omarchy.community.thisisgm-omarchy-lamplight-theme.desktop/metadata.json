@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.thisisgm-omarchy-lamplight-theme.desktop",
+    "Name": "Omarchy Community · Lamplight",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/thisisgm/omarchy-lamplight-theme",
+    "License": "MIT"
+  }
+}

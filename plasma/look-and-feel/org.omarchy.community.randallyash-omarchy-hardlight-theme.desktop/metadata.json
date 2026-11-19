@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.randallyash-omarchy-hardlight-theme.desktop",
+    "Name": "Omarchy Community · Hardlight",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/randallyash/omarchy-hardlight-theme",
+    "License": "MIT"
+  }
+}

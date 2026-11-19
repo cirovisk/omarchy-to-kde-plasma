@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.mmilei-omarchy-unit-eva-001-theme.desktop",
+    "Name": "Omarchy Community · Unit-EVA-001",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/mmilei/omarchy-unit-eva-001-theme",
+    "License": "MIT"
+  }
+}

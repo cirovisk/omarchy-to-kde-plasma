@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.hancore-linux-omarchy-harbor-theme.desktop",
+    "Name": "Omarchy Community · Harbor",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/HANCORE-linux/omarchy-harbor-theme",
+    "License": "MIT"
+  }
+}

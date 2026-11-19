@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.parker-brown-family-omarchy-bright-future-theme.desktop",
+    "Name": "Omarchy Community · Bright Future",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/parker-brown-family/omarchy-bright-future-theme",
+    "License": "MIT"
+  }
+}

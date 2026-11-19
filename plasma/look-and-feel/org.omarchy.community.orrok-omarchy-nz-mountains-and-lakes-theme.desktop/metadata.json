@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.orrok-omarchy-nz-mountains-and-lakes-theme.desktop",
+    "Name": "Omarchy Community · NZ Mountains and Lakes",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Orrok/omarchy-nz-mountains-and-lakes-theme",
+    "License": "MIT"
+  }
+}

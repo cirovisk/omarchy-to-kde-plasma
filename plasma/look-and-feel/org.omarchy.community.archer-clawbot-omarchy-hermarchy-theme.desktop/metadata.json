@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.archer-clawbot-omarchy-hermarchy-theme.desktop",
+    "Name": "Omarchy Community · Hermarchy",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/archer-clawbot/omarchy-hermarchy-theme",
+    "License": "MIT"
+  }
+}

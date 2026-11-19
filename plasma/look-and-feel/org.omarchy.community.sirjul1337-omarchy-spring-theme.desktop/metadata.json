@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.sirjul1337-omarchy-spring-theme.desktop",
+    "Name": "Omarchy Community · Spring",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/SirJul1337/omarchy-spring-theme",
+    "License": "MIT"
+  }
+}

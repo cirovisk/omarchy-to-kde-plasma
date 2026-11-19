@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.beijingrong-omarchy-dream-of-the-red-chamber-theme.desktop",
+    "Name": "Omarchy Community · Dream of the Red Chamber",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/beijingrong/omarchy-dream-of-the-red-chamber-theme",
+    "License": "CC-BY-4.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.alxwolfenstein97-omarchy-ultra-street-fighter-iv-theme.desktop",
+    "Name": "Omarchy Community · Ultra Street Fighter IV",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/AlxWolfenstein97/omarchy-ultra-street-fighter-iv-theme",
+    "License": "Termos do autor"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.simoz-omarchy-haven-theme.desktop",
+    "Name": "Omarchy Community · Haven",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/simoz/omarchy-haven-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.gtanner-omarchy-retroc64-theme.desktop",
+    "Name": "Omarchy Community · RetroC64",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/gtanner/omarchy-retroc64-theme",
+    "License": "MIT"
+  }
+}

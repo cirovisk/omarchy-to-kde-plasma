@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.sonderbydk-omarchy-cthulhu-rlyeh-theme.desktop",
+    "Name": "Omarchy Community · Call of Cthulhu: R'lyeh",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/sonderbydk/omarchy-cthulhu-rlyeh-theme",
+    "License": "MIT"
+  }
+}

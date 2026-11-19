@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.kyryl-bogach-omarchy-luna-xp-theme.desktop",
+    "Name": "Omarchy Community · Luna XP",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/kyryl-bogach/omarchy-luna-xp-theme",
+    "License": "MIT"
+  }
+}

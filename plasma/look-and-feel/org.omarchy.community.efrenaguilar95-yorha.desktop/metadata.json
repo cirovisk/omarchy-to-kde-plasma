@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.efrenaguilar95-yorha.desktop",
+    "Name": "Omarchy Community · YoRHa",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/efrenaguilar95/yorha",
+    "License": "MIT"
+  }
+}

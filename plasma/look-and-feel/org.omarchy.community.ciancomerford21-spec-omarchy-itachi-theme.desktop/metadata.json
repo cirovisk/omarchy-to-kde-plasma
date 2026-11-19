@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.ciancomerford21-spec-omarchy-itachi-theme.desktop",
+    "Name": "Omarchy Community · Itachi",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/ciancomerford21-spec/omarchy-itachi-theme",
+    "License": "MIT"
+  }
+}

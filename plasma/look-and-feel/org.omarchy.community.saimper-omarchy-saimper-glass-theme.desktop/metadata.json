@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.saimper-omarchy-saimper-glass-theme.desktop",
+    "Name": "Omarchy Community · Saimper Glass",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Saimper/omarchy-saimper-glass-theme",
+    "License": "MIT"
+  }
+}

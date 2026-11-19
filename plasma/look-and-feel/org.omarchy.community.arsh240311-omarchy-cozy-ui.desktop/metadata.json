@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.arsh240311-omarchy-cozy-ui.desktop",
+    "Name": "Omarchy Community · Cozy Harbor AE86",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/arsh240311/omarchy-cozy-ui",
+    "License": "MIT"
+  }
+}

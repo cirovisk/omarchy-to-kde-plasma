@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.r-bart-omarchy-periphery-theme.desktop",
+    "Name": "Omarchy Community · Periphery",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/r-bart/omarchy-periphery-theme",
+    "License": "MIT"
+  }
+}

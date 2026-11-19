@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.soujiokita98-omarchy-kato-megumi-theme.desktop",
+    "Name": "Omarchy Community · Kato Megumi",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/SoujiOkita98/omarchy-kato-megumi-theme",
+    "License": "MIT"
+  }
+}

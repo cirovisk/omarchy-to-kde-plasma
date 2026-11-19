@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.alxwolfenstein97-omarchy-terminator-2d-no-fate-theme.desktop",
+    "Name": "Omarchy Community · Terminator 2D: NO FATE",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/AlxWolfenstein97/omarchy-terminator-2d-no-fate-theme",
+    "License": "Termos do autor"
+  }
+}

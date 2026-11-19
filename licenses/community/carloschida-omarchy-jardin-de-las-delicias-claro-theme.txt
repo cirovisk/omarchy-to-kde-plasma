@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 Carlos Chida
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Alcance (nota en español; el texto de la licencia MIT se mantiene en inglés
+porque no existe una traducción oficial con validez legal):
+
+Esta licencia cubre los archivos del tema (colors.toml, icons.theme,
+keyboard.rgb, README.md y demás configuración). No cubre las imágenes de
+backgrounds/, unlock.png, preview.png ni preview-unlock.png en la medida en
+que reproducen la obra.
+
+Obra: "El jardín de las delicias", de El Bosco (hacia 1450-1516), hacia
+1490-1500, Museo del Prado, Madrid. La pintura es de dominio público, y el
+escaneo de origen en Wikimedia Commons (Bosch Research and Conservation
+Project) es una reproducción fiel marcada como PD-Art / PD-old-auto-expired,
+sin obligación de atribución. Los encuadres de este repositorio no añaden
+material protegible, por lo que también son de dominio público. La atribución
+del README se da como cortesía.

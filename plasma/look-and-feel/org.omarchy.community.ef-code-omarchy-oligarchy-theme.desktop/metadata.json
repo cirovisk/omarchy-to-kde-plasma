@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.ef-code-omarchy-oligarchy-theme.desktop",
+    "Name": "Omarchy Community · Oligarchy",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/EF-Code/omarchy-oligarchy-theme",
+    "License": "MIT"
+  }
+}

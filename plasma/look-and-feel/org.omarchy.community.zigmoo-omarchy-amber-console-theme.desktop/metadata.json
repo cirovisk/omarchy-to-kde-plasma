@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.zigmoo-omarchy-amber-console-theme.desktop",
+    "Name": "Omarchy Community · Amber Console",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/zigmoo/omarchy-amber-console-theme",
+    "License": "BSD-3-Clause"
+  }
+}

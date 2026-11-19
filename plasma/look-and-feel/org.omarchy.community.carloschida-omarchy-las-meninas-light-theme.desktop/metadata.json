@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.carloschida-omarchy-las-meninas-light-theme.desktop",
+    "Name": "Omarchy Community · Las Meninas Light",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/carloschida/omarchy-las-meninas-light-theme",
+    "License": "MIT"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.ckyfan89-omarchy-hacker-keycode-theme.desktop",
+    "Name": "Omarchy Community · Hacker Keycode",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/ckyfan89/omarchy-hacker-keycode-theme",
+    "License": "MIT"
+  }
+}

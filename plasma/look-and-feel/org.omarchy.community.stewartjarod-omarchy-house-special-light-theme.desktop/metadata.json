@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.stewartjarod-omarchy-house-special-light-theme.desktop",
+    "Name": "Omarchy Community · House Special Light",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/stewartjarod/omarchy-house-special-light-theme",
+    "License": "MIT"
+  }
+}

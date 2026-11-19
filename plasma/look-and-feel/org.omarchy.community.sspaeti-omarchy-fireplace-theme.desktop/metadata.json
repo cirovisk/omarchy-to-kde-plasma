@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.sspaeti-omarchy-fireplace-theme.desktop",
+    "Name": "Omarchy Community · Fireplace",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/sspaeti/omarchy-fireplace-theme",
+    "License": "MIT"
+  }
+}

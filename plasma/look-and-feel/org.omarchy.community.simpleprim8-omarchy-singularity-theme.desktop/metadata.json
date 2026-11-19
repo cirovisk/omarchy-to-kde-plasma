@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.simpleprim8-omarchy-singularity-theme.desktop",
+    "Name": "Omarchy Community · Singularity",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/simpleprim8/omarchy-singularity-theme",
+    "License": "MIT"
+  }
+}

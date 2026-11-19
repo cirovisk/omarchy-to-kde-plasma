@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.orrok-omarchy-nz-forest-theme.desktop",
+    "Name": "Omarchy Community · NZ Forest",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Orrok/omarchy-nz-forest-theme",
+    "License": "MIT"
+  }
+}

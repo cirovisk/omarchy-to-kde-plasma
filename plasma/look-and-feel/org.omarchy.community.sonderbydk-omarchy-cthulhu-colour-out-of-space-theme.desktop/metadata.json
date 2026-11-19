@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.sonderbydk-omarchy-cthulhu-colour-out-of-space-theme.desktop",
+    "Name": "Omarchy Community · Call of Cthulhu: Colour Out of Space",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/sonderbydk/omarchy-cthulhu-colour-out-of-space-theme",
+    "License": "MIT"
+  }
+}

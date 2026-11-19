@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.leaflessbranch-omarchy-apollo-after-dark-theme.desktop",
+    "Name": "Omarchy Community · Apollo After Dark",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/leaflessbranch/omarchy-apollo-after-dark-theme",
+    "License": "MIT"
+  }
+}

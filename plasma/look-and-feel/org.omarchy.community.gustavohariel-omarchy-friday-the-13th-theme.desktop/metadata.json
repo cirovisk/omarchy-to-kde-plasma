@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.gustavohariel-omarchy-friday-the-13th-theme.desktop",
+    "Name": "Omarchy Community · Friday the 13th",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/gustavohariel/omarchy-friday-the-13th-theme",
+    "License": "MIT"
+  }
+}

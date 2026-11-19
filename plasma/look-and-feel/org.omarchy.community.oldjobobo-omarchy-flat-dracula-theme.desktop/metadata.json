@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.oldjobobo-omarchy-flat-dracula-theme.desktop",
+    "Name": "Omarchy Community · Flat Dracula",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/OldJobobo/omarchy-flat-dracula-theme",
+    "License": "MIT"
+  }
+}

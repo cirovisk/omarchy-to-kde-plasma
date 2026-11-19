@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.r-bart-omarchy-vault-theme.desktop",
+    "Name": "Omarchy Community · Vault",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/r-bart/omarchy-vault-theme",
+    "License": "MIT"
+  }
+}

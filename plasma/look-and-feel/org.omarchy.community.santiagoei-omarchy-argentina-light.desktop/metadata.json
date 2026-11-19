@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.santiagoei-omarchy-argentina-light.desktop",
+    "Name": "Omarchy Community · Argentina Light",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/santiagoei/omarchy-argentina-light",
+    "License": "MIT"
+  }
+}

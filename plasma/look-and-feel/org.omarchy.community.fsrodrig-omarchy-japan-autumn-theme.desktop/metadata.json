@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.fsrodrig-omarchy-japan-autumn-theme.desktop",
+    "Name": "Omarchy Community · Japan Autumn",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/fsrodrig/omarchy-japan-autumn-theme",
+    "License": "MIT"
+  }
+}

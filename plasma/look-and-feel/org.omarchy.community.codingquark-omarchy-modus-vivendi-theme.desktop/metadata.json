@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.codingquark-omarchy-modus-vivendi-theme.desktop",
+    "Name": "Omarchy Community · Modus Vivendi",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/codingquark/omarchy-modus-vivendi-theme",
+    "License": "GPL-3.0"
+  }
+}

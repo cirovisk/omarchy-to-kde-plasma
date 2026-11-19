@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.murillofilho86-omarchy-tron-the-legacy-theme.desktop",
+    "Name": "Omarchy Community · Tron The Legacy",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Murillofilho86/omarchy-tron-the-legacy-theme",
+    "License": "MIT"
+  }
+}

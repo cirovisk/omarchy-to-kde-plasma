@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.nirmal314-omarchy-van-gogh-theme.desktop",
+    "Name": "Omarchy Community · Van Gogh",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Nirmal314/omarchy-van-gogh-theme",
+    "License": "MIT"
+  }
+}

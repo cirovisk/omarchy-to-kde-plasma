@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.ggregoro-violet-tide.desktop",
+    "Name": "Omarchy Community · Violet Tide",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/ggregoro/violet-tide",
+    "License": "MIT"
+  }
+}

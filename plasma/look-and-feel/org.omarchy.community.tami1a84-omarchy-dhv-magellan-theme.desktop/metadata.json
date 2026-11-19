@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.tami1a84-omarchy-dhv-magellan-theme.desktop",
+    "Name": "Omarchy Community · DHV Magellan",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/tami1A84/omarchy-dhv-magellan-theme",
+    "License": "MIT"
+  }
+}

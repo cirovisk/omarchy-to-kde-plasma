@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.ggregoro-hackerboy.desktop",
+    "Name": "Omarchy Community · Hackerboy",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/ggregoro/hackerboy",
+    "License": "MIT"
+  }
+}

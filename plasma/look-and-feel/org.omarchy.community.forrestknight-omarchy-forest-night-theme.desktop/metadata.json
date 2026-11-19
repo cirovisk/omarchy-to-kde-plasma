@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.forrestknight-omarchy-forest-night-theme.desktop",
+    "Name": "Omarchy Community · Forest Night",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/ForrestKnight/omarchy-forest-night-theme",
+    "License": "MIT"
+  }
+}

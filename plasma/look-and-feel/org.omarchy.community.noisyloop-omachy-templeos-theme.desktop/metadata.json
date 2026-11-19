@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.noisyloop-omachy-templeos-theme.desktop",
+    "Name": "Omarchy Community · TempleOS",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/noisyloop/omachy-templeos-theme",
+    "License": "MIT"
+  }
+}

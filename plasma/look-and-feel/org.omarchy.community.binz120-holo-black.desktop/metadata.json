@@ -1,0 +1,11 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.community.binz120-holo-black.desktop",
+    "Name": "Omarchy Community · Holo Black",
+    "Description": "Paleta comunitária adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/Binz120/holo-black",
+    "License": "MIT"
+  }
+}
