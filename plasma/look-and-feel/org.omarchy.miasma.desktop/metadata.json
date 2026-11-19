@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.miasma.desktop",
+    "Name": "Omarchy · Miasma",
+    "Description": "Paleta Miasma do Omarchy adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/omacom/omarchy"
+  }
+}

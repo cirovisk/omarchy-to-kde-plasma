@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.kanagawa.desktop",
+    "Name": "Omarchy · Kanagawa",
+    "Description": "Paleta Kanagawa do Omarchy adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/omacom/omarchy"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.last-horizon.desktop",
+    "Name": "Omarchy · Last Horizon",
+    "Description": "Paleta Last Horizon do Omarchy adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/omacom/omarchy"
+  }
+}

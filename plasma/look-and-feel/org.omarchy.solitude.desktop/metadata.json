@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.solitude.desktop",
+    "Name": "Omarchy · Solitude",
+    "Description": "Paleta Solitude do Omarchy adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/omacom/omarchy"
+  }
+}

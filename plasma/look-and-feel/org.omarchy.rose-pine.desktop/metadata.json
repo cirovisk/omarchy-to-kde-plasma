@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.rose-pine.desktop",
+    "Name": "Omarchy · Rosé Pine",
+    "Description": "Paleta Rosé Pine do Omarchy adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/omacom/omarchy"
+  }
+}

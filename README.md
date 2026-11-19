@@ -1,32 +1,22 @@
-# Omarchy to Noctalia Color Schemes
+# Omarchy para KDE Plasma 6
 
-This repository contains theme color schemes for the Noctalia Desktop Shell.
+Coleção com os 23 temas oficiais do Omarchy adaptados para o Plasma 6 e a
+variante **Ouro e Grafite**, com acento dourado (`#D4AF37`), preto e cinza-escuro.
 
-These schemes were converted from Omarchy theme color schemes using Python.
+Cada tema inclui um esquema de cores e um Tema global baseado no Breeze.
+O pacote de temas vem sem papéis de parede e sem imagens de prévia.
 
-## Structure
+## Instalação
 
-- `colorschemes/`: The converted themes, ready to use.
-- `omarchy-to-noctalia`: The Python conversion tool.
-
-## How to use
-
-Copy the themes you want to your Noctalia config directory:
+Baixe o ZIP do repositório ou clone-o. Na pasta extraída, execute:
 
 ```bash
-mkdir -p ~/.config/noctalia/colorschemes/
-cp -r colorschemes/* ~/.config/noctalia/colorschemes/
+./instalar.sh
 ```
 
-## Running the Conversion Script
+Em **Configurações do Sistema → Cores e temas → Tema global**, escolha um tema
+com prefixo **Omarchy ·**. Para aplicar somente a paleta, abra **Cores**.
+Nesse módulo, selecione **Do esquema de cores** para usar o acento da paleta.
 
-You can also use the `omarchy-to-noctalia` tool to convert other Omarchy themes from GitHub:
-
-```bash
-./omarchy-to-noctalia <github_theme_url> [ThemeName]
-```
-
-Example:
-```bash
-./omarchy-to-noctalia https://github.com/basecamp/omarchy-dracula-theme Dracula
-```
+As paletas oficiais vêm do [Omarchy, revisão b20d787](https://github.com/omacom/omarchy/tree/b20d7876f5ec6a45d18b9e4383dc4b6d9e8492ab/themes).
+A licença do projeto original está em [LICENSE-Omarchy](LICENSE-Omarchy).

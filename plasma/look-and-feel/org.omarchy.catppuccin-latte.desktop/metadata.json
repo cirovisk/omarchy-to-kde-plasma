@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.catppuccin-latte.desktop",
+    "Name": "Omarchy · Catppuccin Latte",
+    "Description": "Paleta Catppuccin Latte do Omarchy adaptada para o KDE Plasma",
+    "Version": "1.0",
+    "Website": "https://github.com/omacom/omarchy"
+  }
+}

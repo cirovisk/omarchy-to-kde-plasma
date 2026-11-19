@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Id": "org.omarchy.ouro-e-grafite.desktop",
+    "Name": "Omarchy · Ouro e Grafite",
+    "Description": "Variante personalizada em dourado, preto e cinza-escuro",
+    "Version": "1.0",
+    "Website": "https://github.com/omacom/omarchy"
+  }
+}
